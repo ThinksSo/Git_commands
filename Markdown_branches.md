@@ -21,16 +21,16 @@
     * git branch* "options"  [-r | -a] [--format]
 
 ### Git branch option
-    *  -v, --verbose    show hash and subject, give twice for upstream branch
-    *  -q, --quiet  suppress informational messages
-    * -t, --track   et up tracking mode (see git-pull(1))
+    * -v, --verbose        show hash and subject, give twice for upstream branch
+    * -q, --quiet          suppress informational messages
+    * -t, --track          et up tracking mode (see git-pull(1))
     * -u, --set-upstream-to upstream    change the upstream info
-    * --unset-upstream      unset the upstream info
-    * --color[=when]      use colored output
-    * -r, --remotes         act on remote-tracking branches
-    * --contains commit   print only branches that contain the commit
-    * --no-contains commit  print only branches that don't contain the commit
-    * --abbrev[<n]    use n digits to display object names
+    * --unset-upstream     unset the upstream info
+    * --color[=when]       use colored output
+    * -r, --remotes        act on remote-tracking branches
+    * --contains commit    print only branches that contain the commit
+    * --no-contains commit print only branches that don't contain the commit
+    * --abbrev[<n]         use n digits to display object names
 
 ### Переключение между ветками
     * *git checkout* *название ветĸи* — переĸлючиться в ветĸу
